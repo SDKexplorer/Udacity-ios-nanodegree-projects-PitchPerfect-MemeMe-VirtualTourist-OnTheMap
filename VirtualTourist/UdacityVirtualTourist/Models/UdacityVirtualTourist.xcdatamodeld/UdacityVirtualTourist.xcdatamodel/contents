@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19D76" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="PhotoCD" representedClassName="PhotoCD" syncable="YES" codeGenerationType="class">
+        <attribute name="farm" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" attributeType="String"/>
+        <attribute name="imageData" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="isFamily" optional="YES" attributeType="Integer 16" usesScalarValueType="YES"/>
+        <attribute name="isFriend" optional="YES" attributeType="Integer 16" usesScalarValueType="YES"/>
+        <attribute name="isPublic" optional="YES" attributeType="Integer 16" usesScalarValueType="YES"/>
+        <attribute name="owner" attributeType="String"/>
+        <attribute name="secret" attributeType="String"/>
+        <attribute name="server" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <relationship name="pin" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="PinCD" inverseName="photos" inverseEntity="PinCD"/>
+    </entity>
+    <entity name="PinCD" representedClassName="PinCD" syncable="YES" codeGenerationType="class">
+        <attribute name="hasBeenInitialized" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="lastPageReviewed" attributeType="Integer 32" defaultValueString="1" usesScalarValueType="YES"/>
+        <attribute name="latitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="longitude" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <relationship name="photos" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="PhotoCD" inverseName="pin" inverseEntity="PhotoCD"/>
+    </entity>
+    <elements>
+        <element name="PhotoCD" positionX="171.5390625" positionY="-24.0859375" width="128" height="208"/>
+        <element name="PinCD" positionX="-70.8515625" positionY="-23.26953125" width="128" height="118"/>
+    </elements>
+</model>
