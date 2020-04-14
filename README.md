@@ -1,2 +1,9 @@
-# Udacity-projects-PitchPerfect-MemeMe-VirtualTourist-OnTheMap
-Udacity projects: "Pitch Perfect"  "MemeMe 2" "Virtual Tourist" and "On The map" 
+# Udacity-iOS-nanodegree-projects-PitchPerfect-MemeMe-VirtualTourist-OnTheMap
+
+Udacity iOS Nanodegree projects 2020
+
+"Pitch Perfect"
+"MemeMe 1.0"
+"MemeMe 2.0"
+"On The map"
+"Virtual Tourist"
