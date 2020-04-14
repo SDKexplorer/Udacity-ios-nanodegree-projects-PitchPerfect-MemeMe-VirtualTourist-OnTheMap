@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9B544CAF-7074-4031-A970-4F48A3CEC55A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F914CD49-BE32-4D03-9498-69D2CD0855BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PitchPerfect/Controller/PlaySoundsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "PlaySoundsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F914CD49-BE32-4D03-9498-69D2CD0855BD - 676299fe45cf39d7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PitchPerfect.PlaySoundsViewController.audioFilePath.getter : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "PitchPerfect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marius.chelariu/Desktop/Work/PitchPerfect/PitchPerfect/Controller/PlaySoundsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "91">
+               </Location>
+               <Location
+                  uuid = "F914CD49-BE32-4D03-9498-69D2CD0855BD - 98619d7e34f561c3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PitchPerfect.PlaySoundsViewController.audioFilePath.setter : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "PitchPerfect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marius.chelariu/Desktop/Work/PitchPerfect/PitchPerfect/Controller/PlaySoundsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "F914CD49-BE32-4D03-9498-69D2CD0855BD - 1eba4a5072a29fd2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PitchPerfect.PlaySoundsViewController.audioFilePath.modify : Swift.Optional&lt;Foundation.URL&gt;"
+                  moduleName = "PitchPerfect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marius.chelariu/Desktop/Work/PitchPerfect/PitchPerfect/Controller/PlaySoundsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "F914CD49-BE32-4D03-9498-69D2CD0855BD - eb902b246c800410"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PitchPerfect.PlaySoundsViewController.audioFilePath.modify : Swift.Optional&lt;Foundation.URL&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PitchPerfect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marius.chelariu/Desktop/Work/PitchPerfect/PitchPerfect/Controller/PlaySoundsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "F914CD49-BE32-4D03-9498-69D2CD0855BD - f9a76bd1805915a5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PitchPerfect.PlaySoundsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PitchPerfect.PlaySoundsViewController"
+                  moduleName = "PitchPerfect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marius.chelariu/Desktop/Work/PitchPerfect/PitchPerfect/Controller/PlaySoundsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "205">
+               </Location>
+               <Location
+                  uuid = "F914CD49-BE32-4D03-9498-69D2CD0855BD - c65690c22a96b82c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PitchPerfect.PlaySoundsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PitchPerfect.PlaySoundsViewController&gt;"
+                  moduleName = "PitchPerfect"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marius.chelariu/Desktop/Work/PitchPerfect/PitchPerfect/Controller/PlaySoundsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "159">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F706D279-9F60-48DF-841A-20F9D194F6E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PitchPerfect/Controller/PlaySoundsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "playSoundForButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10F47DC2-BBD5-4F21-B177-7753B67B4328"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PitchPerfect/Controller/PlaySoundsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "playSoundForButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
